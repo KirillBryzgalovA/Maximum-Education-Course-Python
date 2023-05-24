@@ -1,1 +1,1 @@
-# Maximum-Education-Course-Python
+# Полный курс с нуля на Python от Maximum Education
